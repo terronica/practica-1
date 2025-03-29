@@ -1,0 +1,22 @@
+@model BoletaModel
+<!-- Views/Home/BoletaGenerada.cshtml -->
+<h2>Boleta Generada</h2>
+
+<div class="boleta">
+    <h3>Casa de Cambio Online</h3>
+    <p>Número de boleta: @Model.NumeroBoleta</p>
+    <p>Fecha: @Model.Fecha.ToString("dd/MM/yyyy HH:mm")</p>
+    <hr />
+    
+    <p>Cliente: @Model.Nombre @Model.Apellido</p>
+    <p>DNI: @Model.DNI</p>
+    <p>Email: @Model.Email</p>
+    <hr />
+    
+    <p>Operación: Cambio de @Model.MonedaOrigen a @Model.MonedaDestino</p>
+    <p>Cantidad: @Model.Cantidad.ToString("N2") @Model.MonedaOrigen</p>
+    <p>Resultado: @Model.Resultado.ToString("N2") @Model.MonedaDestino</p>
+    <hr />
+    
+    <p>¡Gracias por su operación!</p>
+</div>
