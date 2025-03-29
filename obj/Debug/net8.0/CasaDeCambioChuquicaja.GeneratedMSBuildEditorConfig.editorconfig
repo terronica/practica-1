@@ -18,18 +18,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\USUARIO\Downloads\Pc1\practica-1\CasaDeCambioChuquicaja
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/USUARIO/Downloads/Pc1/practica-1/CasaDeCambioChuquicaja/Views/Home/Boleta.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCb2xldGEuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/USUARIO/Downloads/Pc1/practica-1/CasaDeCambioChuquicaja/Views/Home/BoletaGenerada.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCb2xldGFHZW5lcmFkYS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/USUARIO/Downloads/Pc1/practica-1/CasaDeCambioChuquicaja/Views/Home/Cambio.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYW1iaW8uY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/USUARIO/Downloads/Pc1/practica-1/CasaDeCambioChuquicaja/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
